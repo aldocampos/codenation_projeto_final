@@ -26,7 +26,7 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_port
 
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
 
-Descrição de variáveis
+Descrição de variáveis: https://s3-us-west-1.amazonaws.com/codenation-challenges/ml-leads/features_dictionary.pdf
 
 Requisitos técnicos obrigatórios
 
